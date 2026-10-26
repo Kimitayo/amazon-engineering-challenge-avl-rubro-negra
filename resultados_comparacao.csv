@@ -1,0 +1,7 @@
+﻿cenario;arvore;n_inseridos;n_removidos;altura_apos_insercao;rotacoes_apos_insercao;altura_final;rotacoes_total;rotacoes_na_remocao;recoloracoes_total
+Crescente;AVL;100;34;7;93;7;94;1;N/A
+Crescente;Rubro-Negra;100;34;11;89;7;94;5;526
+Decrescente;AVL;100;34;7;93;7;94;1;N/A
+Decrescente;Rubro-Negra;100;34;11;89;7;94;5;532
+Embaralhada (semente 2026);AVL;100;34;8;70;7;82;12;N/A
+Embaralhada (semente 2026);Rubro-Negra;100;34;8;51;8;65;14;283
